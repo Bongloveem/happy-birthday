@@ -413,7 +413,7 @@ body{
 }
 .container .cloud:first-child::before{
     position: absolute;
-    content: 'Hãy ấn vào thư em nhé';
+    content: 'Nhấn vào đây thử đi';
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
@@ -424,7 +424,7 @@ body{
 }
 .container .cloud:last-child::before{
     position: absolute;
-    content: 'hê sờ lô, hơ sờ ly ly';
+    content: 'nhớ thu nhỏ màn hình lại ';
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
     font-size: 9px;
